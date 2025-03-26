@@ -4,7 +4,7 @@ A simple AI-powered chatbot built using Streamlit, Groq, and Python-dotenv. This
 
 ## 🚀 Live Demo
 You can try out the chatbot here:
-[🔗 Chat-Bot-Ai Live](#https://chat-bot-ai-rk.streamlit.app/)
+[🔗 https://chat-bot-ai-rk.streamlit.app/](#)
 
 ## 🛠️ Tech Stack
 - **Streamlit** ==1.27.2 (Pinned to this version for stability)
